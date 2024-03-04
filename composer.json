@@ -1,0 +1,18 @@
+{
+  "name": "iqbal/webchat",
+  "description": "Webchat",
+  "autoload": {
+    "psr-4": {
+      "Iqbal\\Webchat\\": "/src"
+    }
+  },
+  "authors": [
+    {
+      "name": "IqbalAnshr",
+      "email": "iqbalanshr@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
